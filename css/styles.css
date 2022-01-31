@@ -37,3 +37,9 @@ font-family: 'Montserrat', sans-serif;
     background-color: #707070;
     height: 320px;
 }
+
+.services {
+    background-image: url("../images/backgrounds/s_image.jpg");
+    height: 320px;
+}
+
