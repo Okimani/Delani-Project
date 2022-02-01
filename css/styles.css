@@ -83,3 +83,8 @@ font-family: 'Montserrat', sans-serif;
     position: relative;
     top: 20px;
 }
+
+.form-control{
+    background-color: #66000000;
+    color: white;
+}
