@@ -62,5 +62,9 @@ font-family: 'Montserrat', sans-serif;
 
 .overlay > img, .headingtxt {
     position: relative;
-    top: 33%;
+    top: 30%;
+}
+
+.mouse-click {
+    margin-top: 435px;
 }
