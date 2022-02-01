@@ -53,4 +53,5 @@ font-family: 'Montserrat', sans-serif;
 
 .contacts {
     background-image: url("../images/backgrounds/c_image.jpg");
+    background-size: cover;
 }
