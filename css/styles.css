@@ -68,3 +68,13 @@ font-family: 'Montserrat', sans-serif;
 .mouse-click {
     margin-top: 435px;
 }
+
+.services h1 {
+    position: relative;
+    top: 70px;
+    margin-bottom: 10px;
+}
+.abts {
+    position: relative;
+    top: 25px;
+}
