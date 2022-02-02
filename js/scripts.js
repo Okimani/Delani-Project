@@ -1,7 +1,17 @@
 $(document).ready(function(){
-
-$('#designp').toggle();
-$('#devpar').toggle();
-$('#plan').toggle();
+    $(".desicon").click(function(){
+        $("#designp").toggle();
     });
+    
+  })
+
+    $(".devicon").click(function(){
+        $("#devpar").toggle();
+    });
+
+    $(".prodicon").click(function(){
+        $("#plan").toggle();
+    });
+
+
 
